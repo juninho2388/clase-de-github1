@@ -22,6 +22,16 @@ git add README
 
 git commit -m "El primer comentario de la vida en Github"
 
+Enviar
 git push origin master
 
+Traer
 git pull origin master
+
+Para crear las ramas
+git branch
+git branch codered
+git checkout codered
+
+Se ingresa a la superior para relacionar
+git merge codered
